@@ -1,0 +1,16 @@
+1.What is menu. Write its importance?
+
+a)Menus are a common user interface component in many types of applications. 
+To provide a familiar and consistent user experience, 
+you should use the Menu APIs to present user actions and other options in your activities.
+
+2. What is options menu. When it is activated.?
+a)Android Option Menus are the primary menus of android. 
+They can be used for settings, search, delete item etc.
+
+b)To perform event handling on menu items, you need to override onOptionsItemSelected() method of Activity class.
+
+3)What is context menu. When it is activated.?
+a)Android context menu appears when user press long click on the element. It is also known as floating menu.
+
+It doesn't support item shortcuts and icons.
